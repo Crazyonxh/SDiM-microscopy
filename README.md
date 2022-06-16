@@ -28,16 +28,16 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 * [sCMOS detector](https://andor.oxinst.com/products/scmos-camera-series/zyla-5-5-scmos), Zyla 5.5 Andor, ~$20000
 
 ## Software Platform and code list
-* Matlab R2020a
-`DMD/generate_grid_pattern.m` generates a grid pattern for DMD calibration. 
-`DMD/calculateTransform.m` calibrates the coordinates of DMD with sCMOS piexels.
-`DMD/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness. 
-`DataAnalysis/NauralActivityAnalysis` generates the neural results
-* Qt 5.14.2
+* Matlab R2020a  
+`DMD/generate_grid_pattern.m` generates a grid pattern for DMD calibration.   
+`DMD/calculateTransform.m` calibrates the coordinates of DMD with sCMOS piexels.  
+`DMD/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness.   
+`DataAnalysis/NauralActivityAnalysis` generates the neural results  
+* Qt 5.14.2  
 `acq/SMART.exe` is the executable program for SMART microscopy.
-* Labview 2019 64 bit
+* Labview 2019 64 bit  
 `acq/SMART.vi` is the main vi for SMART microscopy
-* Python 
+* Python   
 `boplot.py` plots the boxpolot figures with Seaborn.
 
 
