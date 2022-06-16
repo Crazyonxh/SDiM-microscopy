@@ -39,7 +39,7 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 `acq/SMART.vi` is the main vi for SMART microscopy
 * Python   
 `boplot.py` plots the boxpolot figures with Seaborn.
-* Solidworks 2020
+* Solidworks 2020  
 `SMART.stl` is the drawing of the spinning disk   
 
 
