@@ -2,6 +2,7 @@
 SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Technique, an open source frame work adapted to different mesoscope and macrosopes. 
 
 
+
 ## Part list
 ### Spinning disk
 * Disk, Customized from CNC, $50
@@ -12,19 +13,19 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 * [UV glue](https://detail.tmall.com/item.htm?spm=a230r.1.14.22.59be7edbpFXC4D&id=575402772223&ns=1&abbucket=11), 3218uv Valigoo, $1
 * Tapes
 ### Selective illumination
-* Digital Micromirror Device (DMD)
-* LED
-* Relay lenses
+* [Digital Micromirror Device](https://www.vialux.de/Website/PDF/ALP/Specification-V-Modules-Frame-Rates.pdf), V-7001 Vialux, ~$10000
+* [LED](https://www.thorlabschina.cn/newgrouppage9.cfm?objectgroup_ID=8986), SOLIS-470C & DC20 Thorlabs, ~2,000
+* [Relay lenses](https://www.thorlabs.com/thorProduct.cfm?partNumber=AC508-100-A), AC508-100-A Thorlabs, $100
 ### Synchronization
-* DAQ
-* Jump wire
-* PC
+* [DAQ](https://www.ni.com/zh-cn/support/model.pxie-6363.html), USB-6363 NI, ~$3000
+* Jump wire, $5
+* PC, ~$2000
 ### Macroscope
-* SLR lenses
-* Dichroic mirror
-* Excitation filter
-* Emission filter
-* sCMOS detector
+* SLR lenses, Canon EF 50mm f/1.4 USM & MINILTA AF 100mm f/2.8, ~$200 for two second hand lenses
+* [Dichroic mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=DMLP505L), DMLP505L thorlabs, $400
+* [Excitation filter](https://www.thorlabs.com/thorproduct.cfm?partnumber=FESH0500), $200
+* [Emission filter](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39), $300
+* [sCMOS detector](https://andor.oxinst.com/products/scmos-camera-series/zyla-5-5-scmos), Zyla 5.5 Andor, ~$20000
 
 
 ## Download
