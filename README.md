@@ -14,14 +14,14 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 * Tapes
 ### Selective illumination
 * [Digital Micromirror Device](https://www.vialux.de/Website/PDF/ALP/Specification-V-Modules-Frame-Rates.pdf), V-7001 Vialux, ~$10000
-* [LED](https://www.thorlabschina.cn/newgrouppage9.cfm?objectgroup_ID=8986), SOLIS-470C & DC20 Thorlabs, ~2,000
+* [LED](https://www.thorlabschina.cn/newgrouppage9.cfm?objectgroup_ID=8986), SOLIS-470C & DC20 Thorlabs, ~ $2,000
 * [Relay lenses](https://www.thorlabs.com/thorProduct.cfm?partNumber=AC508-100-A), AC508-100-A Thorlabs, $100
 ### Synchronization
 * [DAQ](https://www.ni.com/zh-cn/support/model.pxie-6363.html), USB-6363 NI, ~$3000
 * Jump wire, $5
 * PC, ~$2000
 ### Macroscope
-* SLR lenses, Canon EF 50mm f/1.4 USM & MINILTA AF 100mm f/2.8, ~$200 for two second hand lenses
+* SLR lenses, Canon EF 50mm f/1.4 USM & MINILTA AF 100mm f/2.8, ~$200 for two second-hand lenses
 * [Dichroic mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=DMLP505L), DMLP505L thorlabs, $400
 * [Excitation filter](https://www.thorlabs.com/thorproduct.cfm?partnumber=FESH0500), $200
 * [Emission filter](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39), $300
