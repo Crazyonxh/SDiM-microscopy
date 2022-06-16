@@ -3,6 +3,29 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 
 ## Part list
+### Spinning disk
+* Disk
+* Glass
+* IR detector
+* Rotation stage
+* Motor drive
+* UV glue
+* Tapes
+### Selective illumination
+* Digital Micromirror Device (DMD)
+* LED
+* Relay lenses
+### Synchronization
+* DAQ
+* Jump wire
+* PC
+### Macroscope
+* SLR lenses
+* Dichroic mirror
+* Excitation filter
+* Emission filter
+* sCMOS detector
+
 
 ## Download
 
