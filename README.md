@@ -86,6 +86,6 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 5.	Discrete the surface into 10 heights, and make 10 binary masks accordingly. 
 6.	Other high-speed surface detection algorithms have been developed, but not tested yet.
 
-## Step 5: Image
+## Step 5: Image acquisition
 1.	Apply the map-table in Step 2.6 to the illumination pattern, and set the DMD.
 2.	Click start on the imaging program, and enjoy!
