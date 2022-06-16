@@ -4,12 +4,12 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Part list
 ### Spinning disk
-* Disk
-* Glass
-* IR detector
-* Rotation stage
-* Motor drive
-* UV glue
+* Disk, Customized from CNC, $50
+* [Glass](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.68c82e8dmFWsRe&id=536537929007&_u=8h1dbqsf77b), Thickness 0.16, 0.33, 0.55, 0.71, 0.88, 0.98, 1.33, 1.43, 1.5 mm, $100
+* [IR detector](https://item.taobao.com/item.htm?spm=a230r.1.14.96.26a6262etMtMfx&id=565341450720&ns=1&abbucket=11#detail), $5
+* [Rotation stage](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.10132e8dwd0SDd&id=626679376761&_u=8h1dbqsd1cc), IM6824H  Lika Tech, $50
+* [Motor drive](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.10132e8dwd0SDd&id=628139875189&_u=8h1dbqs5019), 12-36V Lika Tech, $30
+* [UV glue](https://detail.tmall.com/item.htm?spm=a230r.1.14.22.59be7edbpFXC4D&id=575402772223&ns=1&abbucket=11), 3218uv Valigoo, $1
 * Tapes
 ### Selective illumination
 * Digital Micromirror Device (DMD)
