@@ -42,7 +42,15 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 
 ## Downloads
-
+### System implementatoin
+* [Andor SDK3.15](https://andor.oxinst.com/downloads/view/andor-sdk3-3.15.30084.0) 
+* [Andor SDK3 Labview for sCMOS](https://andor.oxinst.com/assets/uploads/andor-support-resources/FAQ031.pdf)
+* [Micromanager with Andor SDK3](https://micro-manager.org/Andor_SDK3) 
+* [VIALUX-3P-ALP-4](https://www.ti.com/tool/VIALUX-3P-ALP-4) is the controller for DMD
+### Data analysis
+* [CNMF-E](https://github.com/zhoupc/CNMF_E)
+* [circularGraph](https://ww2.mathworks.cn/matlabcentral/fileexchange/48576-circulargraph)
+* [@msdanalyzer](https://ww2.mathworks.cn/matlabcentral/fileexchange/40692-mean-square-displacement-analysis-of-particles-trajectories)
 
 
 ## Step 1: Assembly of the spinning disk
