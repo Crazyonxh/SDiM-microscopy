@@ -29,16 +29,16 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Software Platform and code list
 * Matlab R2016b and R2020a
-** `DMD/generate_grid_pattern.m` generates a grid pattern for DMD calibration. 
-** `DMD/calculateTransform.m` calibrates the coordinates of DMD with sCMOS piexels.
-** `DMD/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness. 
-** `DataAnalysis/NauralActivityAnalysis` generates the neural results
+`DMD/generate_grid_pattern.m` generates a grid pattern for DMD calibration. 
+`DMD/calculateTransform.m` calibrates the coordinates of DMD with sCMOS piexels.
+`DMD/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness. 
+`DataAnalysis/NauralActivityAnalysis` generates the neural results
 * Qt for Python
-** `acq/SMART.exe` is the executable program for SMART microscopy.
+`acq/SMART.exe` is the executable program for SMART microscopy.
 * Labview 2019
-** `acq/SMART.vi` is the main vi for SMART microscopy
+`acq/SMART.vi` is the main vi for SMART microscopy
 * Python 
-** `boplot.py` plots the boxpolot figures with Seaborn.
+`boplot.py` plots the boxpolot figures with Seaborn.
 
 
 ## Downloads
