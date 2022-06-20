@@ -28,10 +28,9 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Software Platform and code list
 * Matlab R2020a  
-`DMD/generate_grid_pattern.m` generates a grid pattern for DMD calibration.   
-`DMD/calculateTransform.m` calibrates the coordinates of DMD with sCMOS piexels.  
-`DMD/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness.   
-`DataAnalysis/NauralActivityAnalysis` generates the neural results  
+`DMDCalibration/calculateTransform.m`calibrates the coordinates of DMD with sCMOS piexels.   
+`surfaceDetection/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness.   
+`DataAnalysis/NauralActivityAnalysis` generates the neural results.  
 * Qt 5.14.2  
 `acq/SMART.exe` is the executable program for SMART microscopy.
 * Labview 2019 64 bit  
