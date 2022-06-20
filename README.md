@@ -32,7 +32,7 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 `surfaceDetection/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness.   
 `DataAnalysis/NauralActivityAnalysis` generates the neural results.  
 * Qt 5.14.2     
-[`acq/SMART.exe`](https://doi.org/10.6084/m9.figshare.20102171.v1) is the executable program for SMART microscopy.
+[`widefield/debug/widefild.exe`](https://doi.org/10.6084/m9.figshare.20102171.v1) is the executable program for SMART microscopy.
 * Labview 2019 64 bit  
 `acq/SMART.vi` is the main vi for SMART microscopy
 * Python   
