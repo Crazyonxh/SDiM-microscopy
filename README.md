@@ -83,7 +83,6 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 3.	Apply algorithms to extract the features. For example, to detect the position of neurons, we first use standard derivation to the time sequence, then threshold the image to make it binary and apply morphological algorithms to extract the connected regions in the image. Finally, we sort the regions by parameters such as areas and eccentricity.
 4.	We fit the shape of our surface by assuming the surface is continuous in 3D space. The shape of the surfaces can be set to polynomial or any smooth surface.
 5.	Discrete the surface into 10 heights, and make 10 binary masks accordingly. 
-6.	Other high-speed surface detection algorithms have been developed, but not tested yet.
 
 ## Step 5: Image acquisition
 1.	Apply the map-table in Step 2.6 to the illumination pattern, and set the DMD.
