@@ -87,4 +87,4 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Step 5: Image acquisition
 1.	Apply the map-table in Step 2.6 to the illumination pattern, and set the DMD.
-2.	Click start on the imaging program, and enjoy!
+2.	For Labview detection, folow this [manual]{https://github.com/Crazyonxh/SMART-microscopy/blob/main/Labveiw/readme_labview.md}
