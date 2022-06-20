@@ -1,0 +1,26 @@
+123
+
+Frame 0
+Camera timestamp: 757807162468
+Camera real time(s): 18945.179062
+System real time (software trigger)(s): 2021-11-21 20:52:53.002
+
+Frame 1
+Camera timestamp: 757815164097
+Camera real time(s): 18945.379102
+System real time (software trigger)(s): 2021-11-21 20:52:53.190
+
+Frame 2
+Camera timestamp: 757823164710
+Camera real time(s): 18945.579118
+System real time (software trigger)(s): 2021-11-21 20:52:53.391
+
+Frame 3
+Camera timestamp: 757831165323
+Camera real time(s): 18945.779133
+System real time (software trigger)(s): 2021-11-21 20:52:53.596
+
+Frame 4
+Camera timestamp: 757839165936
+Camera real time(s): 18945.979148
+System real time (software trigger)(s): 2021-11-21 20:52:53.792

@@ -1,0 +1,17 @@
+**************************************************
+Time: 2021.11.21 20:52:53.018
+Mouse#: 0
+Experiment#: 
+Supplementary note: 
+**************************************************
+Glass thickness(mm): 1.8, 1.1, 0.88, 0.16, 0.33, 1.5, 1.3, 0.71, 0, 0.55
+Rotary voltage(V): 0
+Rotary stage speed(rps)/period(ms): 
+Signal time(ms): 98
+Frame number: 5
+DMD pattern number: 5
+DMD delay degree: 0
+Camera delay degree: 0
+LED delay degree: 5
+LED last degree: 20
+Calibration frame number: 50
