@@ -85,4 +85,4 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Step 5: Image acquisition
 1.	Apply the map-table in Step 2.6 to the illumination pattern, and set the DMD.
-2.	For Labview detection, follow this [manual](./Labveiw/readme_labview.md).
+2.	For Labview detection, follow this [manual](./Labveiw/readme_labview.md). For QT detection, download this [zip file](https://doi.org/10.6084/m9.figshare.20102171.v1). 
