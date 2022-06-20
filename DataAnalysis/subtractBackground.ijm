@@ -1,0 +1,50 @@
+
+makeRectangle(1770, 1163, 493, 524);
+run("Duplicate...", "duplicate");
+
+run("Duplicate...", "duplicate");
+run("32-bit");
+run("Gaussian Blur...", "sigma=100 stack");
+run("Image Calculator...");
+run("Divide...", "value=5000.000 stack");
+imageCalculator("Divide create 32-bit stack", "sCMOS-1","sCMOS-2");
+selectWindow("Result of sCMOS-1");
+selectWindow("sCMOS-2");
+selectWindow("Result of sCMOS-1");
+run("Duplicate...", "duplicate");
+run("Gaussian Blur 3D...", "x=0 y=0 z=3");
+makeRectangle(163, 268, 116, 144);
+
+//setTool("rectangle");
+run("Duplicate...", "duplicate");
+run("Gaussian Blur 3D...", "x=0 y=0 z=2");
+
+run("Z Project...", "projection=[Average Intensity]");
+run("Multiply...", "value=0.8");
+imageCalculator("Subtract create 32-bit stack", "Result of sCMOS-2","AVG_Result of sCMOS-2");
+selectWindow("Result of Result of sCMOS-2");
+//setTool("rectangle");
+makeRectangle(102, 96, 291, 317);
+makeRectangle(102, 96, 291, 325);
+//setTool("zoom");
+makeRectangle(102, 96, 291, 325);
+//setTool("rectangle");
+makeRectangle(102, 96, 291, 300);
+//setTool("zoom");
+makeRectangle(102, 96, 291, 300);
+makeRectangle(102, 96, 291, 300);
+//setTool("rectangle");
+makeRectangle(102, 96, 300, 300);
+//setTool("zoom");
+makeRectangle(102, 96, 300, 300);
+makeRectangle(102, 96, 300, 300);
+//setTool("rectangle");
+makeRectangle(163, 120, 300, 300);
+run("Duplicate...", "duplicate");
+makeRectangle(74, 65, 94, 112);
+//run("Brightness/Contrast...");
+run("Enhance Contrast", "saturated=0.35");
+run("Duplicate...", "duplicate range=20-2200 use");
+saveAs("Tiff", "C:/Users/bbnc/Desktop/temp_data/20211210_immu/acq_4/figure4/tracking/002134.tif");
+run("AVI... ", "compression=JPEG frame=10");
+run("AVI... ", "compression=JPEG frame=10 save=C:/Users/bbnc/Desktop/temp_data/20211210_immu/acq_4/figure4/tracking/002134.avi");
