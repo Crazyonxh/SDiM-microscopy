@@ -32,7 +32,7 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 `surfaceDetection/generateDMDPattern.m` fits the arbitary surface and thereby generates target galss thickness.   
 `DataAnalysis/NauralActivityAnalysis` generates the neural results.  
 * Qt 5.14.2     
-[`widefield/debug/widefild.exe`](https://doi.org/10.6084/m9.figshare.20102171.v1) is the executable program for SMART microscopy.
+[`widefield/debug/widefild.exe`](https://figshare.com/s/6e0073230477a9e31000) is the executable program for SMART microscopy.
 * Labview 2019 64 bit  
 `acq/SMART.vi` is the main vi for SMART microscopy
 * Python   
@@ -85,4 +85,4 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 
 ## Step 5: Image acquisition
 1.	Apply the map-table in Step 2.6 to the illumination pattern, and set the DMD.
-2.	For Labview detection, follow this [manual](./Labveiw/readme_labview.md). For QT detection, download this [zip file](https://doi.org/10.6084/m9.figshare.20102171.v1). 
+2.	For Labview detection, follow this [manual](./Labveiw/readme_labview.md). For QT detection, download this [zip file](https://figshare.com/s/6e0073230477a9e31000). 
