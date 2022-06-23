@@ -3,7 +3,7 @@ SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Te
 ![img](./imgs/full system.JPG)  
 
 <p align="center">
-  <img src=../imgs/full system.JPG width="350" title="hover text">
+  <img src=../../imgs/full system.JPG width="350" title="hover text">
 </p>  
 
 ## Part list
