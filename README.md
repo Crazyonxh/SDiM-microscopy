@@ -1,9 +1,8 @@
 # SMART-microscopy
 SMART is short for Spinning-disk Mesoscale ARbitrarily-shaped Surface imaging Technique, an open source framework adapted to different mesoscope and macrosopes.   
-![img](./imgs/full system.JPG)  
 
 <p align="center">
-  <img src="./imgs/fullsystem.png" width="350" title="hover text">
+  <img src="./imgs/fullsystem.png" width="1000" title="hover text">
 </p>  
 
 ## Part list
